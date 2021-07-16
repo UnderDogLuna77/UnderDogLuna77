@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UnderDogLuna77
-- 👀 I’m interested in Java coding,=.
+- 👀 I’m interested in Java coding.
 - 🌱 I’m currently learning Discord bots using JDA.
 - 💞️ I’m looking to collaborate on Discord bots.
 - 📫 You can reach me on Discord: UnderDogLuna77#0982
